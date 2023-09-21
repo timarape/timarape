@@ -1,4 +1,4 @@
-[![MasterHead](https://tshepiso.hashnode.dev/)](https://twitter.com/timarape)
+[![MasterHead](https://app.gemoo.com/share/image-annotation/563575446295961600?codeId=Ml3xnYLaGppKX&origin=imageurlgenerator)](https://twitter.com/timarape)
 
 <h1 align="center">Hi 👋, I'm Tshepiso Marape</h1>
 <h3 align="center">A passionate software engineer from Johannesburg, South Africa</h3>
@@ -42,4 +42,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timarape&show_icons=true&locale=en" alt="timarape" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timarape&" alt="timarape" /></p>
+

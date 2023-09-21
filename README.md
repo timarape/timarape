@@ -1,4 +1,4 @@
-<p align="center">[![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60)](https://twitter.com/timarape)</p> 
+<div align="center">[![MasterHead](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=400&q=60)](https://twitter.com/timarape)</div> 
 
 <h1 align="center">Hi 👋, I'm Tshepiso Marape</h1>
 <h3 align="center">A passionate software engineer from Johannesburg, South Africa</h3>

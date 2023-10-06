@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Tshepiso Marape</h1>
 <h3 align="center">A passionate software engineer from South Africa</h3>
-<img align="center" alt="Coding is fun" width="800" height="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<a href="https://app.daily.dev/timarape"><img src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="400" alt="Tshepiso's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timarape&label=Profile%20views&color=0e75b6&style=flat" alt="timarape" /> </p>
 

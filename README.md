@@ -1,13 +1,21 @@
 <p align="center"><img src= "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"alt="timarape" width="800" height="400" /> </p>
 
-
 <h1 align="center">Hi 👋, I'm Tshepiso Marape</h1>
 <h3 align="center">A passionate software engineer from South Africa</h3>
-<a href="https://app.daily.dev/timarape"><img src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="400" alt="Tshepiso's Dev Card"/></a>
+
+
+ <p align="center">
+   <a href="https://app.daily.dev/timarape"><img align="left" src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="400" alt="Tshepiso's Dev Card"/></a>
+
+<img   alt="Coding is fun" width="500" height="550" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+ </p> 
+
+<br/><br/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timarape&label=Profile%20views&color=0e75b6&style=flat" alt="timarape" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timarape" alt="timarape" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/timarape" target="blank"><img src="https://img.shields.io/twitter/follow/timarape?logo=twitter&style=for-the-badge" alt="timarape" /></a> </p>
 

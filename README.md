@@ -5,9 +5,9 @@
 
 
  <p align="center">
-   <a href="https://app.daily.dev/timarape"><img align="left" src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="400" alt="Tshepiso's Dev Card"/></a>
+   <a href="https://app.daily.dev/timarape"><img align="left" src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="200" alt="Tshepiso's Dev Card"/></a>
 
-<img   alt="Coding is fun" width="500" height="550" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img   alt="Coding is fun" width="300" height="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
  </p> 
 
 <br/><br/>

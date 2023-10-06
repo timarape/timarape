@@ -1,5 +1,4 @@
-[<p align="center"><img src= "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"alt="timarape" width="800" height="400" /> </p>](<a href="https://app.daily.dev/timarape"><img src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="400" alt="Tshepiso's Dev Card"/></a>)
-<a href="https://app.daily.dev/timarape"><img src="https://api.daily.dev/devcards/9b2dac66a80f48a6aa8e4022e78055e7.png?r=due" width="400" alt="Tshepiso's Dev Card"/></a>
+<p align="center"><img src= "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1472&q=80"alt="timarape" width="800" height="400" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Tshepiso Marape</h1>
@@ -43,5 +42,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timarape&show_icons=true&locale=en&layout=compact" alt="timarape" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timarape&show_icons=true&locale=en" alt="timarape" /></p>
-
 
